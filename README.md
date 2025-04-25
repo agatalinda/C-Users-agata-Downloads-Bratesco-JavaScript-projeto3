@@ -1,2 +1,2 @@
-# C-Users-agata-Downloads-Bratesco-JavaScript-projeto3
+# projeto3Smart-tv
 Meu projeto smart-tv
