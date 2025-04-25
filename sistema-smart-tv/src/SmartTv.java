@@ -7,11 +7,13 @@ public class SmartTv { // Aqui é a configurações da tv
         //volume = volume + 1; // Aqui é o método para aumentar o volume
         //volume++; // Aqui é o método para aumentar o volume
         volume++;
+        System.out.println("Aumentar o volume para: " + volume); // Aqui é o método para aumentar o volume
     }
     public void diminuirVolume(){ // Aqui é o método para diminuir o volume
         //volume = volume - 1; // Aqui é o método para diminuir o volume
         //volume--; // Aqui é o método para diminuir o volume
         volume--;
+        System.out.println("Diminuir o volume para: " + volume); // Aqui é o método para diminuir o volume
     }
 
 
